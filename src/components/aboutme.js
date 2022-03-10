@@ -21,7 +21,8 @@ function Aboutme() {
           </p>
           <p className="text-left text-base font-mono mt-2  ">
             I am a Computer science students, who likes to work with react and
-            react native to create websites and mobile apps.
+            react native to create websites and mobile apps.I am currently also
+            learning about backend technologies- node.js, express, etc.
           </p>
         </div>
       </div>
