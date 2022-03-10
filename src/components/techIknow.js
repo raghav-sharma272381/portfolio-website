@@ -40,7 +40,7 @@ function TechIknow() {
               backdrop-blur-xl bg-opacity-60"
               >
                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-                  <img className="p-4 " src={JS} alt={"JS"} />
+                  <img className="p-5 " src={JS} alt={"JS"} />
                   <p className="text-center text-white  ">JavaScript</p>
                 </a>
               </div>
