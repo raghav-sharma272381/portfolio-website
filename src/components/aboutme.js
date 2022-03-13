@@ -20,7 +20,7 @@ function Aboutme() {
             Welcome to my website :-)
           </p>
           <p className="text-left text-base font-mono mt-2  ">
-            I am a Computer science students, who likes to work with react and
+            I am a Computer science student, who likes to work with react and
             react native to create websites and mobile apps.I am currently
             learning about backend technologies- node.js, express, etc.
           </p>
