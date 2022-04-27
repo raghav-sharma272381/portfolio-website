@@ -1,6 +1,7 @@
 import React from "react";
 import mail from "../assets/mail.png";
 import Linkedin from "../assets/Linkedin.png";
+import Github from "../assets/github.png"
 
 function Contact() {
   return (
@@ -43,6 +44,9 @@ function Contact() {
           </a>
           <a href="https://www.linkedin.com/in/raghav-sharma-a26369180/">
             <img className="p-3 max-h-16 " src={Linkedin} alt={"Linked in"} />
+          </a>
+          <a href="https://github.com/raghav-sharma272381">
+            <img className="p-3 max-h-16 " src={Github} alt={"Github"} />
           </a>
         </div>
         <p className="text-center font-serif text-xs  text-stone-300   ">
